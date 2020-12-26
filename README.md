@@ -1,22 +1,27 @@
 # Udacity Data Analyst Nanodegree
-This repository includes projects learnings and outcomes from the Udacity Data Analyst Nanodegree (enrolled October 2020-present)
+This repository includes project outputs from Udacity's Data Analyst Nanodegree (enrolled 10/2020-02/2021)
 
 ## Project 0: Explore Weather Trends
-Description/Key Learnings
-Link
+Analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends. Submit as a PDF report.
+- Tools used: SQL, Google Sheets
+- [Link to Report](https://github.com/danmmayer/udacity_dand/blob/main/project0_weather_trends/summary_report.pdf)
 
 ## Project 1: Investigate a Dataset
-Description/Key Learnings
-Link
+Analyze a dataset and then communicate your findings about it. Note: I conducted my analysis on the [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) from Kaggle
+- Tools used: Anaconda (Python installation), SQL, Jupyter Notebook, Python (NumPy, pandas, MatPlotlib, Seaborn)
+- [Link to Analysis](https://github.com/danmmayer/udacity_dand/blob/main/project1_investigate_a_dataset/kaggle_soccer_database_insights.html)
 
 ## Project 2: Analyze A/B Test Results
-Description/Key Learnings
-Link
+Apply probability and statistical techniques to understand and interpret the results of an A/B test run by an e-commerce website. Your goal is to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+- Tools used: Jupyter Notebook, Python (NumPy, pandas, statsmodels)
+- [Link to Analysis](https://github.com/danmmayer/udacity_dand/blob/main/project2_analyze_ab_test/ab_test_results_analysis.html)
 
 ## Project 3: Wrangle and Analyze Data
-Description/Key Learnings
-Link
+Gather data from a variety of sources and in a variety of formats, assess them for quality and tidiness, then clean them. Showcase your wrangling efforts through analyses and visualizations.
+- Tools used: Twitter API, Jupyter Notebook, Python (NumPy, pandas, requests, json, tweepy, PIL, matplotlib, seaborn)
+- Link to Report
 
 ## Project 4: Communicate Data Findings
-Description/Key Learnings
-Link
+Choose a dataset, either your own or a Udacity-curated dataset, and perform an exploratory data analysis using Python. Then create a presentation with explanatory plots that communicates you findings.
+- Tools used:
+- Link to Report
