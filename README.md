@@ -1,22 +1,22 @@
-# Welcome to my repository of projects from the Udacity Data Analyst Nanodegree
-I will use this space to post learnings and outcomes from projects that are part of the Udacity Data Analyst Nanodegree (enrolled October 2020-present)
+# Udacity Data Analyst Nanodegree
+This repository includes projects learnings and outcomes from the Udacity Data Analyst Nanodegree (enrolled October 2020-present)
 
-**Course 1: Introduction to Data Analysis**
+## Project 0: Explore Weather Trends
 Description/Key Learnings
-**Project 1: Investigate A Dataset**
-Description/Key Learnings
+Link
 
-**Course 2: Practical Statistics**
+## Project 1: Investigate a Dataset
 Description/Key Learnings
-**Project 2: Analyze an A/B Test Result**
-Description/Key Learnings
+Link
 
-**Course 3: Data Wrangling (Gather, Assess, Clean)**
+## Project 2: Analyze A/B Test Results
 Description/Key Learnings
-**Project 3: Wrangle a Dataset**
-Description/Key Learnings
+Link
 
-**Course 4: Data Visualization**
+## Project 3: Wrangle and Analyze Data
 Description/Key Learnings
-**Project 4: Communicate Data Findings**
+Link
+
+## Project 4: Communicate Data Findings
 Description/Key Learnings
+Link
