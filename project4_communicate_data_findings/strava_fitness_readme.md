@@ -13,8 +13,6 @@ I also conducted some basic feature engineering, adding calculated fields for sp
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 In the exploration, I set out to answer questions in four main areas:
 
 **1. How has a recent change in my running cadence impacted my performance?**
@@ -32,8 +30,6 @@ I engineered a simplistic fitness score for each activity by dividing speed by h
 
 
 ## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
 For the presentation, I focus on just the influence of the four Cs of diamonds
 and leave out most of the intermediate derivations. I start by introducing the
