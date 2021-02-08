@@ -18,13 +18,18 @@ Apply probability and statistical techniques to understand and interpret the res
 
 ## Project 3: Wrangle and Analyze Data
 Gather data from a variety of sources and in a variety of formats, assess them for quality and tidiness, then clean them. Showcase your wrangling efforts through analyses and visualizations.
-- Tools used: Twitter API, Jupyter Notebook, Python (NumPy, pandas, requests, json, tweepy, PIL, matplotlib, seaborn)
+- Tools used: Twitter API, Jupyter Notebook, Python (NumPy, pandas, requests, json, tweepy, PIL, matplotlib, seaborn, regex)
 - [Analysis](https://htmlpreview.github.io/?https://github.com/danmmayer/udacity_dand/blob/main/project3_wrangle_analyze_data/wrangle_act.html)
 - [Technical Report](https://htmlpreview.github.io/?https://github.com/danmmayer/udacity_dand/blob/main/project3_wrangle_analyze_data/wrangle_report.html)
 - [Summary Report](https://github.com/danmmayer/udacity_dand/blob/main/project3_wrangle_analyze_data/act_report.pdf)
 
 
 ## Project 4: Communicate Data Findings
-Choose a dataset, either your own or a Udacity-curated dataset, and perform an exploratory data analysis using Python. Then create a presentation with explanatory plots that communicates you findings.
-- Tools used:
-- Link to Report
+Choose a dataset, either your own or a Udacity-curated dataset, and perform an exploratory data analysis using Python. Then create a presentation with explanatory plots that communicates you findings. I did my analysis on my personal fitness data downloaded from Strava.
+- Tools used: Jupyter Notebook, Python (pandas, NumPy, matplotlib, seaborn, datetime)
+- [ReadMe](https://github.com/danmmayer/udacity_dand/blob/main/project4_communicate_data_findings/strava_fitness_readme.md)
+- [Exploratory Data Analysis](https://htmlpreview.github.io/?https://github.com/danmmayer/udacity_dand/blob/main/project4_communicate_data_findings/strava_fitness_exploration.html)
+- [Explanatory Data Analysis](https://github.com/danmmayer/udacity_dand/blob/main/project4_communicate_data_findings/strava_fitness_explanatory.slides.html)
+
+![udacity_DAND_certificate(1)](https://user-images.githubusercontent.com/63934793/107166878-50acc980-6985-11eb-8820-fcb05b975052.png)
+
